@@ -1,0 +1,8 @@
+We need to build an app for iOS and Android. Would it be possible to write most of
+the code once and have it run on both iOS and Android? If so, what would be your
+approach?
+
+Yes, it is possible to write most of the code once and run on both iOS and Android on any cross platform app development tecnology 
+such as React-Native or Flutter (Using Dart as a programming language),
+however there will be platform specific implications that wont be addressed if native code is not used. 
+So, i would defintely prefer to use native app development than using cross platform but if have to use it, i would go for flutter.

@@ -1,0 +1,3 @@
+1. For setting up the project, we need to use an application on another device to enable a heart rate monitor like LightBlue explorer which is available on Android. 
+2. Before using the heart rate monitor application, pairing your health device through the settings screen of your phone will be required.
+3. If a virtual heart rate monitor is used, attention needs to paid for pairing the virtual device and not your actual phone.
